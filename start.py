@@ -32,8 +32,8 @@ resault = resault / 44
 print ("your resault is :",resault)
 if resault >= 10 :
 	print ("congratulations (~: !!")
-else : 
-    print (" your future not related by your school !! and stop kidding me  (;")
+
+
 
 jihawi = float(input("  regional :"))
 morakaba = float(input ("  controles continues :"))
