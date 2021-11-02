@@ -45,5 +45,5 @@ normalise1 = normalise1 * 12.5
 watani = watani * 50
 demi_resault = jihawi + morakaba + normalise1 + watani 
 final_resault = demi_resault / 100
-print (final_resault)
+print ("Your final result is" ,final_resault)
 print ("#by SAJID")
