@@ -37,11 +37,11 @@ if resault >= 10 :
 
 jihawi = float(input("  regional :"))
 morakaba = float(input ("  controles continues :"))
-normalise1 = float(input ("normalisé 1 (الامتحان الموحد للدورة الاولى) :"))
+
 watani = float(input ("  national :"))
 jihawi = jihawi * 25
-morakaba = morakaba * 12.5
-normalise1 = normalise1 * 12.5
+morakaba = morakaba * 25
+
 watani = watani * 50
 demi_resault = jihawi + morakaba + normalise1 + watani 
 final_resault = demi_resault / 100
