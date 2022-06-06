@@ -43,7 +43,7 @@ jihawi = jihawi * 25
 morakaba = morakaba * 25
 
 watani = watani * 50
-demi_resault = jihawi + morakaba + normalise1 + watani 
+demi_resault = jihawi + morakaba + watani 
 final_resault = demi_resault / 100
 print ("Your final result is" ,final_resault)
 print ("#by SAJID")
